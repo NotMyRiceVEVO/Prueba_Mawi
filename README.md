@@ -12,6 +12,7 @@ cp env .env
 En `.env`, dentro de la sección `DATABASE`, descomenta (quitar #) y ajustar:
 
 database.default.database = database.db
+
 database.default.DBDriver = SQLite3
 
 
