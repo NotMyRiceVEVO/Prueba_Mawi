@@ -11,9 +11,9 @@ cp env .env
 
 En `.env`, dentro de la sección `DATABASE`, descomenta (quitar #) y ajustar:
 
-database.default.database = database.db
+`database.default.database = database.db`
 
-database.default.DBDriver = SQLite3
+`database.default.DBDriver = SQLite3`
 
 
 Correr las migraciones e insertar los datos de prueba:
