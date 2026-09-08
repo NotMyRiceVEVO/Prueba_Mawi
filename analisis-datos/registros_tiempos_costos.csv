@@ -1,0 +1,586 @@
+registro_id,proyecto_id,proyecto,departamento,empleado_id,empleado,rol,fecha,tarea,horas,tarifa_hora,costo,presupuesto
+1,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,05/01/2026,Documentacion,1.9,170,323,100000
+2,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,12/01/2026,Pruebas,3.4,195,663,100000
+3,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,14/01/2026,Documentacion,7.2,210,1512,100000
+4,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,15/01/2026,Pruebas,1.5,210,315,100000
+5,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,16/01/2026,Analisis,4.8,170,816,100000
+6,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,19/01/2026,Documentacion,5.9,170,1003,100000
+7,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,20/01/2026,Desarrollo backend,3.7,195,721.5,100000
+8,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,20/01/2026,Desarrollo frontend,2.2,195,429,100000
+9,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,21/01/2026,Correccion de bugs,2.8,210,588,100000
+10,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,27/01/2026,Desarrollo backend,5.7,170,969,100000
+11,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,27/01/2026,Desarrollo frontend,4.8,170,816,100000
+12,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,28/01/2026,Desarrollo frontend,5.3,170,901,100000
+13,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,30/01/2026,Reunion,3.8,210,798,100000
+14,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,02/02/2026,Reunion,5.4,210,1134,100000
+15,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,02/02/2026,Pruebas,4.5,195,877.5,100000
+16,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,04/02/2026,Reunion,5.7,195,1111.5,100000
+17,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,05/02/2026,Documentacion,3.7,170,629,100000
+18,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,06/02/2026,Desarrollo frontend,1.9,170,323,100000
+19,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,06/02/2026,Pruebas,2.7,195,526.5,100000
+20,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,09/02/2026,Reunion,3.8,170,646,100000
+21,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,12/02/2026,Despliegue,3.9,170,663,100000
+22,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,12/02/2026,Pruebas,4.1,195,799.5,100000
+23,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,13/02/2026,Reunion,3.9,210,819,100000
+24,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,20/02/2026,Diseño BD,5.3,170,901,100000
+25,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,24/02/2026,Analisis,3.4,210,714,100000
+26,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,27/02/2026,Reunion,3.5,195,682.5,100000
+27,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,02/03/2026,Analisis,4.5,210,945,100000
+28,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,03/03/2026,Documentacion,2.7,170,459,100000
+29,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,06/03/2026,Diseño BD,4.9,170,833,100000
+30,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,09/03/2026,Desarrollo backend,5.1,170,867,100000
+31,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,09/03/2026,Desarrollo backend,2.4,170,408,100000
+32,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,10/03/2026,Correccion de bugs,3.8,195,741,100000
+33,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,10/03/2026,Diseño BD,5.6,195,1092,100000
+34,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,12/03/2026,Correccion de bugs,2.7,195,526.5,100000
+35,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,16/03/2026,Reunion,6,170,1020,100000
+36,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,17/03/2026,Pruebas,5.2,195,1014,100000
+37,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,20/03/2026,Correccion de bugs,0.7,195,136.5,100000
+38,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,20/03/2026,Desarrollo backend,3.8,170,646,100000
+39,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,20/03/2026,Analisis,4.2,170,714,100000
+40,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,20/03/2026,Correccion de bugs,4.2,170,714,100000
+41,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,23/03/2026,Diseño BD,1.5,195,292.5,100000
+42,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,23/03/2026,Desarrollo backend,5,170,850,100000
+43,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,24/03/2026,Documentacion,4.7,210,987,100000
+44,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,24/03/2026,Correccion de bugs,2.4,195,468,100000
+45,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,25/03/2026,Desarrollo backend,3.2,170,544,100000
+46,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,26/03/2026,Despliegue,6,170,1020,100000
+47,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,26/03/2026,Documentacion,6.2,170,1054,100000
+48,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,27/03/2026,Pruebas,4.4,195,858,100000
+49,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,01/04/2026,Desarrollo backend,5.3,170,901,100000
+50,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,01/04/2026,Desarrollo frontend,2.2,210,462,100000
+51,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,03/04/2026,Desarrollo backend,7.3,170,1241,100000
+52,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,06/04/2026,Correccion de bugs,5,195,975,100000
+53,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,09/04/2026,Desarrollo frontend,4.9,170,833,100000
+54,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,09/04/2026,Desarrollo frontend,5.3,195,1033.5,100000
+55,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,10/04/2026,Correccion de bugs,4.8,195,936,100000
+56,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,13/04/2026,Desarrollo backend,7.5,195,1462.5,100000
+57,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,23/04/2026,Desarrollo frontend,4.2,170,714,100000
+58,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,23/04/2026,Documentacion,2.5,195,487.5,100000
+59,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,24/04/2026,Pruebas,5.7,195,1111.5,100000
+60,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,27/04/2026,Pruebas,4.2,170,714,100000
+61,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,28/04/2026,Analisis,7,210,1470,100000
+62,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,30/04/2026,Reunion,0.8,210,168,100000
+63,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,30/04/2026,Desarrollo frontend,3,210,630,100000
+64,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,01/05/2026,Diseño BD,3.9,210,819,100000
+65,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,04/05/2026,Desarrollo frontend,2.1,170,357,100000
+66,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,04/05/2026,Diseño BD,5.4,210,1134,100000
+67,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,04/05/2026,Pruebas,3.9,195,760.5,100000
+68,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,06/05/2026,Documentacion,6.9,170,1173,100000
+69,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,06/05/2026,Documentacion,3.2,170,544,100000
+70,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,06/05/2026,Pruebas,4.8,210,1008,100000
+71,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,08/05/2026,Analisis,4.7,170,799,100000
+72,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,12/05/2026,Correccion de bugs,7.9,195,1540.5,100000
+73,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,13/05/2026,Documentacion,4,210,840,100000
+74,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,14/05/2026,Despliegue,5.1,170,867,100000
+75,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,15/05/2026,Pruebas,3.2,210,672,100000
+76,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,15/05/2026,Desarrollo backend,4.2,170,714,100000
+77,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,18/05/2026,Correccion de bugs,3.5,210,735,100000
+78,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,18/05/2026,Desarrollo frontend,4.3,195,838.5,100000
+79,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,20/05/2026,Desarrollo backend,1.9,195,370.5,100000
+80,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,20/05/2026,Desarrollo backend,2.5,210,525,100000
+81,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,20/05/2026,Pruebas,9,195,1755,100000
+82,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,21/05/2026,Documentacion,5.1,170,867,100000
+83,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,21/05/2026,Correccion de bugs,2.7,170,459,100000
+84,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,22/05/2026,Correccion de bugs,5.3,170,901,100000
+85,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,22/05/2026,Pruebas,4.3,210,903,100000
+86,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,25/05/2026,Analisis,4,210,840,100000
+87,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,25/05/2026,Pruebas,3.5,170,595,100000
+88,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,27/05/2026,Reunion,4.8,210,1008,100000
+89,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,28/05/2026,Despliegue,4.6,210,966,100000
+90,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,29/05/2026,Despliegue,5.1,195,994.5,100000
+91,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,29/05/2026,Documentacion,9,210,1890,100000
+92,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,29/05/2026,Documentacion,5.2,210,1092,100000
+93,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,29/05/2026,Analisis,2.5,170,425,100000
+94,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,01/06/2026,Analisis,5.4,210,1134,100000
+95,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,03/06/2026,Desarrollo backend,6.2,170,1054,100000
+96,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,03/06/2026,Correccion de bugs,3.7,210,777,100000
+97,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,08/06/2026,Reunion,4.6,170,782,100000
+98,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,09/06/2026,Diseño BD,4,210,840,100000
+99,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,10/06/2026,Despliegue,7.1,170,1207,100000
+100,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,11/06/2026,Desarrollo frontend,4.8,210,1008,100000
+101,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,15/06/2026,Diseño BD,3.8,195,741,100000
+102,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,15/06/2026,Desarrollo frontend,7.6,195,1482,100000
+103,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,17/06/2026,Desarrollo frontend,6.1,170,1037,100000
+104,1,Modulo Nomina,Recursos Humanos,5,Marisol Vega,QA,22/06/2026,Desarrollo frontend,2.6,170,442,100000
+105,1,Modulo Nomina,Recursos Humanos,7,Paola Cruz,Frontend,23/06/2026,Despliegue,6.8,195,1326,100000
+106,1,Modulo Nomina,Recursos Humanos,2,Luis Medina,Backend,23/06/2026,Pruebas,6.6,210,1386,100000
+107,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,05/01/2026,Desarrollo frontend,3.2,195,624,100000
+108,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,09/01/2026,Despliegue,6,215,1290,100000
+109,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,13/01/2026,Despliegue,6.9,170,1173,100000
+110,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,16/01/2026,Correccion de bugs,5.5,240,1320,100000
+111,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,19/01/2026,Pruebas,6.6,235,1551,100000
+112,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,19/01/2026,Documentacion,5.9,235,1386.5,100000
+113,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,19/01/2026,Desarrollo frontend,6.9,235,1621.5,100000
+114,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,20/01/2026,Desarrollo backend,1.6,235,376,100000
+115,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,20/01/2026,Reunion,5.3,235,1245.5,100000
+116,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,20/01/2026,Despliegue,2,240,480,100000
+117,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,23/01/2026,Despliegue,7.4,195,1443,100000
+118,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,23/01/2026,Despliegue,5.8,240,1392,100000
+119,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,26/01/2026,Documentacion,3.3,235,775.5,100000
+120,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,27/01/2026,Analisis,7.8,235,1833,100000
+121,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,27/01/2026,Despliegue,5.1,240,1224,100000
+122,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,28/01/2026,Reunion,6,235,1410,100000
+123,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,28/01/2026,Analisis,8.6,235,2021,100000
+124,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,29/01/2026,Analisis,6,215,1290,100000
+125,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,30/01/2026,Desarrollo backend,3.5,215,752.5,100000
+126,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,02/02/2026,Despliegue,3.3,195,643.5,100000
+127,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,03/02/2026,Despliegue,4,240,960,100000
+128,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,03/02/2026,Reunion,10,240,2400,100000
+129,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,04/02/2026,Reunion,5,235,1175,100000
+130,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,09/02/2026,Pruebas,6.9,215,1483.5,100000
+131,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,09/02/2026,Despliegue,4.8,240,1152,100000
+132,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,10/02/2026,Reunion,4.6,195,897,100000
+133,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,13/02/2026,Reunion,5.9,170,1003,100000
+134,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,17/02/2026,Documentacion,5.2,240,1248,100000
+135,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,19/02/2026,Pruebas,5.4,170,918,100000
+136,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,24/02/2026,Reunion,9.9,195,1930.5,100000
+137,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,27/02/2026,Documentacion,3.5,240,840,100000
+138,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,27/02/2026,Pruebas,5.3,215,1139.5,100000
+139,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,03/03/2026,Desarrollo backend,8.2,235,1927,100000
+140,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,09/03/2026,Correccion de bugs,3.9,240,936,100000
+141,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,11/03/2026,Desarrollo frontend,6.4,195,1248,100000
+142,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,16/03/2026,Correccion de bugs,5.2,235,1222,100000
+143,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,18/03/2026,Diseño BD,5.1,170,867,100000
+144,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,20/03/2026,Diseño BD,7.4,235,1739,100000
+145,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,23/03/2026,Despliegue,6.4,215,1376,100000
+146,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,26/03/2026,Documentacion,4.5,240,1080,100000
+147,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,27/03/2026,Correccion de bugs,4.8,170,816,100000
+148,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,31/03/2026,Documentacion,4,215,860,100000
+149,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,31/03/2026,Diseño BD,4,195,780,100000
+150,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,31/03/2026,Desarrollo backend,2.8,195,546,100000
+151,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,01/04/2026,Documentacion,3.8,240,912,100000
+152,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,03/04/2026,Documentacion,5.6,215,1204,100000
+153,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,06/04/2026,Pruebas,6.4,170,1088,100000
+154,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,06/04/2026,Documentacion,9,215,1935,100000
+155,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,06/04/2026,Diseño BD,7.1,215,1526.5,100000
+156,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,07/04/2026,Correccion de bugs,4.4,195,858,100000
+157,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,07/04/2026,Pruebas,5,240,1200,100000
+158,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,10/04/2026,Despliegue,5.7,195,1111.5,100000
+159,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,10/04/2026,Documentacion,8.3,235,1950.5,100000
+160,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,13/04/2026,Desarrollo frontend,6.2,195,1209,100000
+161,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,14/04/2026,Desarrollo frontend,1.9,170,323,100000
+162,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,15/04/2026,Despliegue,1.8,215,387,100000
+163,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,16/04/2026,Reunion,6.1,215,1311.5,100000
+164,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,17/04/2026,Diseño BD,0.5,195,97.5,100000
+165,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,17/04/2026,Desarrollo frontend,8.9,235,2091.5,100000
+166,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,17/04/2026,Desarrollo backend,5.3,215,1139.5,100000
+167,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,21/04/2026,Desarrollo frontend,4,215,860,100000
+168,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,22/04/2026,Analisis,5.9,215,1268.5,100000
+169,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,22/04/2026,Desarrollo frontend,9.1,170,1547,100000
+170,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,24/04/2026,Despliegue,7.4,235,1739,100000
+171,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,24/04/2026,Documentacion,2.9,195,565.5,100000
+172,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,24/04/2026,Diseño BD,7,215,1505,100000
+173,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,28/04/2026,Analisis,7.1,170,1207,100000
+174,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,29/04/2026,Desarrollo frontend,10,235,2350,100000
+175,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,30/04/2026,Correccion de bugs,2.8,195,546,100000
+176,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,01/05/2026,Analisis,2.7,170,459,100000
+177,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,05/05/2026,Reunion,3.5,240,840,100000
+178,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,11/05/2026,Pruebas,5,235,1175,100000
+179,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,11/05/2026,Documentacion,3,240,720,100000
+180,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,11/05/2026,Documentacion,4,215,860,100000
+181,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,11/05/2026,Reunion,4.9,170,833,100000
+182,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,11/05/2026,Pruebas,5.7,240,1368,100000
+183,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,12/05/2026,Reunion,5.5,170,935,100000
+184,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,12/05/2026,Despliegue,4.3,170,731,100000
+185,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,12/05/2026,Desarrollo frontend,3.1,240,744,100000
+186,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,12/05/2026,Desarrollo frontend,2.9,170,493,100000
+187,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,13/05/2026,Desarrollo frontend,5.1,215,1096.5,100000
+188,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,13/05/2026,Diseño BD,9.8,215,2107,100000
+189,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,18/05/2026,Reunion,4.2,170,714,100000
+190,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,18/05/2026,Pruebas,4.8,170,816,100000
+191,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,18/05/2026,Diseño BD,7,240,1680,100000
+192,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,19/05/2026,Reunion,4.8,240,1152,100000
+193,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,20/05/2026,Correccion de bugs,6.9,240,1656,100000
+194,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,21/05/2026,Reunion,5.2,215,1118,100000
+195,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,22/05/2026,Pruebas,2.4,215,516,100000
+196,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,22/05/2026,Despliegue,5.8,170,986,100000
+197,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,22/05/2026,Correccion de bugs,2.4,240,576,100000
+198,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,25/05/2026,Documentacion,7.4,195,1443,100000
+199,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,25/05/2026,Correccion de bugs,4.9,195,955.5,100000
+200,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,27/05/2026,Reunion,5.9,195,1150.5,100000
+201,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,01/06/2026,Correccion de bugs,2.2,170,374,100000
+202,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,03/06/2026,Pruebas,6,235,1410,100000
+203,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,10/06/2026,Analisis,1.3,195,253.5,100000
+204,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,12/06/2026,Despliegue,6.8,195,1326,100000
+205,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,15/06/2026,Pruebas,3.4,235,799,100000
+206,2,Portal Tramites,Atencion Ciudadana,8,Hector Ibarra,Data/ML,15/06/2026,Despliegue,5.3,235,1245.5,100000
+207,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,16/06/2026,Correccion de bugs,8.8,195,1716,100000
+208,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,16/06/2026,Reunion,1.9,170,323,100000
+209,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,16/06/2026,Desarrollo frontend,3,240,720,100000
+210,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,17/06/2026,Despliegue,7.8,240,1872,100000
+211,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,18/06/2026,Desarrollo frontend,7.1,195,1384.5,100000
+212,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,19/06/2026,Analisis,5,195,975,100000
+213,2,Portal Tramites,Atencion Ciudadana,5,Marisol Vega,QA,19/06/2026,Reunion,5.3,170,901,100000
+214,2,Portal Tramites,Atencion Ciudadana,6,Diego Salinas,Backend,19/06/2026,Correccion de bugs,10,215,2150,100000
+215,2,Portal Tramites,Atencion Ciudadana,7,Paola Cruz,Frontend,22/06/2026,Despliegue,0.8,195,156,100000
+216,2,Portal Tramites,Atencion Ciudadana,4,Jorge Peña,Data/ML,26/06/2026,Despliegue,3.8,240,912,100000
+217,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,07/01/2026,Desarrollo backend,5.1,220,1122,95000
+218,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,08/01/2026,Desarrollo backend,5.2,220,1144,95000
+219,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,14/01/2026,Despliegue,4.2,240,1008,95000
+220,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,15/01/2026,Documentacion,5.6,240,1344,95000
+221,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,19/01/2026,Reunion,3.7,235,869.5,95000
+222,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,19/01/2026,Desarrollo frontend,5.9,170,1003,95000
+223,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,21/01/2026,Documentacion,3.7,220,814,95000
+224,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,23/01/2026,Correccion de bugs,4.1,220,902,95000
+225,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,23/01/2026,Correccion de bugs,3,235,705,95000
+226,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,27/01/2026,Correccion de bugs,0.5,235,117.5,95000
+227,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,28/01/2026,Pruebas,4.1,235,963.5,95000
+228,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,05/02/2026,Documentacion,4.1,240,984,95000
+229,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,05/02/2026,Desarrollo frontend,6.4,240,1536,95000
+230,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,09/02/2026,Pruebas,2.9,235,681.5,95000
+231,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,10/02/2026,Desarrollo frontend,5.7,235,1339.5,95000
+232,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,11/02/2026,Diseño BD,5.8,240,1392,95000
+233,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,13/02/2026,Analisis,4.1,170,697,95000
+234,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,16/02/2026,Pruebas,1.7,240,408,95000
+235,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,20/02/2026,Despliegue,2.7,220,594,95000
+236,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,23/02/2026,Correccion de bugs,6.5,220,1430,95000
+237,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,25/02/2026,Pruebas,2.8,235,658,95000
+238,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,25/02/2026,Pruebas,5,235,1175,95000
+239,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,25/02/2026,Analisis,2.5,240,600,95000
+240,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,25/02/2026,Desarrollo backend,4.6,240,1104,95000
+241,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,26/02/2026,Diseño BD,5,235,1175,95000
+242,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,02/03/2026,Diseño BD,5.9,235,1386.5,95000
+243,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,04/03/2026,Analisis,0.5,240,120,95000
+244,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,04/03/2026,Reunion,6.6,235,1551,95000
+245,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,05/03/2026,Despliegue,4.7,240,1128,95000
+246,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,05/03/2026,Correccion de bugs,7.7,235,1809.5,95000
+247,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,05/03/2026,Reunion,2.9,240,696,95000
+248,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,09/03/2026,Correccion de bugs,4,235,940,95000
+249,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,12/03/2026,Documentacion,7.7,240,1848,95000
+250,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,13/03/2026,Pruebas,2.8,220,616,95000
+251,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,16/03/2026,Despliegue,5.3,170,901,95000
+252,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,18/03/2026,Despliegue,5.6,235,1316,95000
+253,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,19/03/2026,Analisis,5.1,240,1224,95000
+254,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,24/03/2026,Documentacion,4.7,220,1034,95000
+255,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,24/03/2026,Reunion,7.5,170,1275,95000
+256,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,24/03/2026,Diseño BD,6.9,220,1518,95000
+257,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,31/03/2026,Documentacion,4.5,170,765,95000
+258,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,01/04/2026,Despliegue,2.5,170,425,95000
+259,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,01/04/2026,Pruebas,2.2,220,484,95000
+260,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,07/04/2026,Documentacion,4.4,170,748,95000
+261,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,07/04/2026,Documentacion,4.5,240,1080,95000
+262,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,07/04/2026,Diseño BD,4.6,220,1012,95000
+263,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,08/04/2026,Documentacion,4.2,170,714,95000
+264,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,09/04/2026,Desarrollo frontend,2.2,220,484,95000
+265,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,10/04/2026,Documentacion,1.3,220,286,95000
+266,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,13/04/2026,Despliegue,6.3,235,1480.5,95000
+267,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,14/04/2026,Despliegue,4.6,220,1012,95000
+268,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,16/04/2026,Reunion,2.5,170,425,95000
+269,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,17/04/2026,Reunion,6.8,235,1598,95000
+270,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,22/04/2026,Diseño BD,4.3,240,1032,95000
+271,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,24/04/2026,Desarrollo frontend,4.9,240,1176,95000
+272,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,24/04/2026,Desarrollo frontend,3.5,170,595,95000
+273,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,28/04/2026,Desarrollo frontend,3.4,235,799,95000
+274,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,01/05/2026,Pruebas,3.8,170,646,95000
+275,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,01/05/2026,Diseño BD,2.4,235,564,95000
+276,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,06/05/2026,Correccion de bugs,7.1,235,1668.5,95000
+277,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,08/05/2026,Correccion de bugs,2.4,240,576,95000
+278,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,12/05/2026,Documentacion,1.1,240,264,95000
+279,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,13/05/2026,Desarrollo frontend,4.3,220,946,95000
+280,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,14/05/2026,Correccion de bugs,0.5,240,120,95000
+281,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,19/05/2026,Documentacion,2.5,235,587.5,95000
+282,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,25/05/2026,Pruebas,3.1,220,682,95000
+283,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,02/06/2026,Analisis,7.1,240,1704,95000
+284,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,02/06/2026,Correccion de bugs,3.9,240,936,95000
+285,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,04/06/2026,Desarrollo frontend,7.7,220,1694,95000
+286,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,08/06/2026,Desarrollo frontend,4.7,240,1128,95000
+287,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,08/06/2026,Documentacion,6,235,1410,95000
+288,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,08/06/2026,Pruebas,6.2,220,1364,95000
+289,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,09/06/2026,Pruebas,6.1,235,1433.5,95000
+290,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,10/06/2026,Desarrollo backend,5,240,1200,95000
+291,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,11/06/2026,Diseño BD,5.3,170,901,95000
+292,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,12/06/2026,Diseño BD,5.7,235,1339.5,95000
+293,3,Reporteador Financiero,Finanzas,1,Ana Torres,Backend,19/06/2026,Analisis,4.4,220,968,95000
+294,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,22/06/2026,Correccion de bugs,3.3,170,561,95000
+295,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,22/06/2026,Diseño BD,3.8,235,893,95000
+296,3,Reporteador Financiero,Finanzas,4,Jorge Peña,Data/ML,24/06/2026,Analisis,4.4,240,1056,95000
+297,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,24/06/2026,Pruebas,5.8,235,1363,95000
+298,3,Reporteador Financiero,Finanzas,8,Hector Ibarra,Data/ML,26/06/2026,Desarrollo backend,1.1,235,258.5,95000
+299,3,Reporteador Financiero,Finanzas,5,Marisol Vega,QA,26/06/2026,Desarrollo backend,4.1,170,697,95000
+300,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,05/01/2026,Diseño BD,7,235,1645,100000
+301,4,App Inventarios,Almacen,5,Marisol Vega,QA,08/01/2026,Desarrollo backend,7.8,170,1326,100000
+302,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,09/01/2026,Correccion de bugs,6.1,235,1433.5,100000
+303,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,12/01/2026,Documentacion,6.7,190,1273,100000
+304,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,14/01/2026,Despliegue,4.9,235,1151.5,100000
+305,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,15/01/2026,Correccion de bugs,5.2,235,1222,100000
+306,4,App Inventarios,Almacen,5,Marisol Vega,QA,16/01/2026,Despliegue,1.8,170,306,100000
+307,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,19/01/2026,Correccion de bugs,3,235,705,100000
+308,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,20/01/2026,Documentacion,7,235,1645,100000
+309,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,21/01/2026,Documentacion,4.5,235,1057.5,100000
+310,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,21/01/2026,Pruebas,7.4,190,1406,100000
+311,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,22/01/2026,Desarrollo frontend,5.4,190,1026,100000
+312,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,22/01/2026,Despliegue,2.5,190,475,100000
+313,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,22/01/2026,Analisis,7.8,190,1482,100000
+314,4,App Inventarios,Almacen,5,Marisol Vega,QA,26/01/2026,Pruebas,4,170,680,100000
+315,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,26/01/2026,Desarrollo frontend,7,235,1645,100000
+316,4,App Inventarios,Almacen,5,Marisol Vega,QA,27/01/2026,Desarrollo backend,2.6,170,442,100000
+317,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,27/01/2026,Documentacion,1.9,190,361,100000
+318,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,28/01/2026,Documentacion,6.6,190,1254,100000
+319,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,29/01/2026,Diseño BD,5.8,235,1363,100000
+320,4,App Inventarios,Almacen,5,Marisol Vega,QA,02/02/2026,Desarrollo backend,5.6,170,952,100000
+321,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,02/02/2026,Correccion de bugs,4,190,760,100000
+322,4,App Inventarios,Almacen,5,Marisol Vega,QA,02/02/2026,Reunion,6.1,170,1037,100000
+323,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,02/02/2026,Desarrollo frontend,6.9,190,1311,100000
+324,4,App Inventarios,Almacen,5,Marisol Vega,QA,04/02/2026,Documentacion,5.1,170,867,100000
+325,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,04/02/2026,Pruebas,4.7,235,1104.5,100000
+326,4,App Inventarios,Almacen,5,Marisol Vega,QA,04/02/2026,Reunion,5.5,170,935,100000
+327,4,App Inventarios,Almacen,5,Marisol Vega,QA,05/02/2026,Desarrollo frontend,7,170,1190,100000
+328,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,09/02/2026,Diseño BD,5.1,190,969,100000
+329,4,App Inventarios,Almacen,5,Marisol Vega,QA,11/02/2026,Documentacion,7.4,170,1258,100000
+330,4,App Inventarios,Almacen,5,Marisol Vega,QA,13/02/2026,Diseño BD,2.9,170,493,100000
+331,4,App Inventarios,Almacen,5,Marisol Vega,QA,16/02/2026,Despliegue,1.9,170,323,100000
+332,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,16/02/2026,Despliegue,3.4,190,646,100000
+333,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,17/02/2026,Desarrollo backend,4.9,190,931,100000
+334,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,17/02/2026,Reunion,5.1,190,969,100000
+335,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,19/02/2026,Diseño BD,5.6,190,1064,100000
+336,4,App Inventarios,Almacen,5,Marisol Vega,QA,23/02/2026,Reunion,3.8,170,646,100000
+337,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,25/02/2026,Desarrollo backend,5.6,190,1064,100000
+338,4,App Inventarios,Almacen,5,Marisol Vega,QA,25/02/2026,Desarrollo frontend,6.6,170,1122,100000
+339,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,26/02/2026,Reunion,5.4,235,1269,100000
+340,4,App Inventarios,Almacen,5,Marisol Vega,QA,03/03/2026,Desarrollo frontend,4.5,170,765,100000
+341,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,03/03/2026,Desarrollo frontend,6,235,1410,100000
+342,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,04/03/2026,Reunion,2.8,190,532,100000
+343,4,App Inventarios,Almacen,5,Marisol Vega,QA,06/03/2026,Pruebas,5.9,170,1003,100000
+344,4,App Inventarios,Almacen,5,Marisol Vega,QA,06/03/2026,Correccion de bugs,3,170,510,100000
+345,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,09/03/2026,Correccion de bugs,2.8,190,532,100000
+346,4,App Inventarios,Almacen,5,Marisol Vega,QA,10/03/2026,Desarrollo backend,2.3,170,391,100000
+347,4,App Inventarios,Almacen,5,Marisol Vega,QA,10/03/2026,Reunion,8.9,170,1513,100000
+348,4,App Inventarios,Almacen,5,Marisol Vega,QA,12/03/2026,Documentacion,7.1,170,1207,100000
+349,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,13/03/2026,Desarrollo backend,4.7,235,1104.5,100000
+350,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,16/03/2026,Documentacion,5.2,190,988,100000
+351,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,16/03/2026,Despliegue,8.1,190,1539,100000
+352,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,17/03/2026,Pruebas,5.5,190,1045,100000
+353,4,App Inventarios,Almacen,5,Marisol Vega,QA,17/03/2026,Despliegue,8.9,170,1513,100000
+354,4,App Inventarios,Almacen,5,Marisol Vega,QA,17/03/2026,Diseño BD,5.1,170,867,100000
+355,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,19/03/2026,Desarrollo frontend,2,190,380,100000
+356,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,20/03/2026,Desarrollo frontend,4.9,190,931,100000
+357,4,App Inventarios,Almacen,5,Marisol Vega,QA,24/03/2026,Documentacion,3.4,170,578,100000
+358,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,24/03/2026,Documentacion,6.1,235,1433.5,100000
+359,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,24/03/2026,Despliegue,4.6,190,874,100000
+360,4,App Inventarios,Almacen,5,Marisol Vega,QA,30/03/2026,Reunion,4.8,170,816,100000
+361,4,App Inventarios,Almacen,5,Marisol Vega,QA,31/03/2026,Despliegue,5.7,170,969,100000
+362,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,03/04/2026,Desarrollo backend,3.4,190,646,100000
+363,4,App Inventarios,Almacen,5,Marisol Vega,QA,06/04/2026,Reunion,4.8,170,816,100000
+364,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,06/04/2026,Reunion,8.4,235,1974,100000
+365,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,07/04/2026,Reunion,7.9,190,1501,100000
+366,4,App Inventarios,Almacen,5,Marisol Vega,QA,07/04/2026,Diseño BD,6.5,170,1105,100000
+367,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,07/04/2026,Analisis,5.4,235,1269,100000
+368,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,08/04/2026,Correccion de bugs,5.8,235,1363,100000
+369,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,08/04/2026,Despliegue,8.5,235,1997.5,100000
+370,4,App Inventarios,Almacen,5,Marisol Vega,QA,10/04/2026,Diseño BD,7.2,170,1224,100000
+371,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,14/04/2026,Pruebas,5.1,235,1198.5,100000
+372,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,16/04/2026,Desarrollo backend,5.8,190,1102,100000
+373,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,16/04/2026,Diseño BD,6.4,235,1504,100000
+374,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,20/04/2026,Analisis,6.6,190,1254,100000
+375,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,21/04/2026,Desarrollo frontend,5.1,190,969,100000
+376,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,22/04/2026,Desarrollo frontend,4,190,760,100000
+377,4,App Inventarios,Almacen,5,Marisol Vega,QA,22/04/2026,Diseño BD,4.1,170,697,100000
+378,4,App Inventarios,Almacen,5,Marisol Vega,QA,28/04/2026,Pruebas,2.9,170,493,100000
+379,4,App Inventarios,Almacen,5,Marisol Vega,QA,07/05/2026,Despliegue,7,170,1190,100000
+380,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,08/05/2026,Desarrollo backend,8.5,190,1615,100000
+381,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,11/05/2026,Reunion,4.3,235,1010.5,100000
+382,4,App Inventarios,Almacen,5,Marisol Vega,QA,12/05/2026,Desarrollo frontend,7.6,170,1292,100000
+383,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,13/05/2026,Diseño BD,3.5,235,822.5,100000
+384,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,13/05/2026,Desarrollo frontend,7.1,235,1668.5,100000
+385,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,14/05/2026,Diseño BD,6.3,235,1480.5,100000
+386,4,App Inventarios,Almacen,5,Marisol Vega,QA,18/05/2026,Despliegue,4.8,170,816,100000
+387,4,App Inventarios,Almacen,5,Marisol Vega,QA,19/05/2026,Diseño BD,3.5,170,595,100000
+388,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,19/05/2026,Correccion de bugs,4.7,190,893,100000
+389,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,20/05/2026,Correccion de bugs,0.6,190,114,100000
+390,4,App Inventarios,Almacen,5,Marisol Vega,QA,27/05/2026,Correccion de bugs,2.4,170,408,100000
+391,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,28/05/2026,Desarrollo backend,1.8,190,342,100000
+392,4,App Inventarios,Almacen,5,Marisol Vega,QA,29/05/2026,Desarrollo frontend,3,170,510,100000
+393,4,App Inventarios,Almacen,5,Marisol Vega,QA,29/05/2026,Reunion,4.8,170,816,100000
+394,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,01/06/2026,Documentacion,2.4,190,456,100000
+395,4,App Inventarios,Almacen,5,Marisol Vega,QA,01/06/2026,Desarrollo backend,2.7,170,459,100000
+396,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,01/06/2026,Diseño BD,1.6,190,304,100000
+397,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,02/06/2026,Desarrollo frontend,5.2,190,988,100000
+398,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,02/06/2026,Documentacion,2.1,235,493.5,100000
+399,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,05/06/2026,Reunion,7,235,1645,100000
+400,4,App Inventarios,Almacen,5,Marisol Vega,QA,05/06/2026,Reunion,2,170,340,100000
+401,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,08/06/2026,Documentacion,5.6,190,1064,100000
+402,4,App Inventarios,Almacen,5,Marisol Vega,QA,10/06/2026,Despliegue,7.3,170,1241,100000
+403,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,10/06/2026,Correccion de bugs,7.4,235,1739,100000
+404,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,17/06/2026,Desarrollo backend,10,190,1900,100000
+405,4,App Inventarios,Almacen,5,Marisol Vega,QA,17/06/2026,Reunion,9,170,1530,100000
+406,4,App Inventarios,Almacen,5,Marisol Vega,QA,17/06/2026,Pruebas,2.1,170,357,100000
+407,4,App Inventarios,Almacen,5,Marisol Vega,QA,19/06/2026,Diseño BD,4.3,170,731,100000
+408,4,App Inventarios,Almacen,8,Hector Ibarra,Data/ML,19/06/2026,Desarrollo backend,3.3,235,775.5,100000
+409,4,App Inventarios,Almacen,5,Marisol Vega,QA,19/06/2026,Analisis,10,170,1700,100000
+410,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,24/06/2026,Despliegue,7.6,190,1444,100000
+411,4,App Inventarios,Almacen,3,Carla Ruiz,Frontend,25/06/2026,Despliegue,4,190,760,100000
+412,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,08/01/2026,Reunion,1.2,170,204,60000
+413,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,12/01/2026,Desarrollo backend,6.2,235,1457,60000
+414,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,13/01/2026,Desarrollo frontend,3.1,195,604.5,60000
+415,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,14/01/2026,Pruebas,5.4,220,1188,60000
+416,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,19/01/2026,Desarrollo backend,7,235,1645,60000
+417,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,21/01/2026,Diseño BD,6.3,195,1228.5,60000
+418,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,21/01/2026,Reunion,5.9,235,1386.5,60000
+419,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,23/01/2026,Reunion,4.3,235,1010.5,60000
+420,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,26/01/2026,Analisis,5.7,235,1339.5,60000
+421,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,27/01/2026,Reunion,7.3,220,1606,60000
+422,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,28/01/2026,Correccion de bugs,3.8,220,836,60000
+423,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,03/02/2026,Documentacion,7.2,215,1548,60000
+424,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,06/02/2026,Analisis,7.4,215,1591,60000
+425,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,06/02/2026,Analisis,6.6,215,1419,60000
+426,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,10/02/2026,Pruebas,0.9,215,193.5,60000
+427,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,11/02/2026,Analisis,8,215,1720,60000
+428,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,24/02/2026,Despliegue,4.5,215,967.5,60000
+429,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,02/03/2026,Documentacion,7.7,170,1309,60000
+430,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,02/03/2026,Diseño BD,3.8,195,741,60000
+431,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,02/03/2026,Pruebas,6,220,1320,60000
+432,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,06/03/2026,Correccion de bugs,5.3,195,1033.5,60000
+433,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,11/03/2026,Documentacion,4.6,235,1081,60000
+434,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,11/03/2026,Pruebas,0.5,235,117.5,60000
+435,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,13/03/2026,Pruebas,4,170,680,60000
+436,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,16/03/2026,Correccion de bugs,2.7,170,459,60000
+437,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,16/03/2026,Desarrollo frontend,6.2,220,1364,60000
+438,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,17/03/2026,Analisis,5.9,220,1298,60000
+439,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,19/03/2026,Desarrollo backend,5.5,235,1292.5,60000
+440,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,20/03/2026,Pruebas,4.1,215,881.5,60000
+441,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,23/03/2026,Pruebas,10,235,2350,60000
+442,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,25/03/2026,Despliegue,3.5,170,595,60000
+443,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,26/03/2026,Documentacion,4.9,170,833,60000
+444,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,26/03/2026,Pruebas,8,195,1560,60000
+445,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,31/03/2026,Diseño BD,9.3,170,1581,60000
+446,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,01/04/2026,Diseño BD,2.6,170,442,60000
+447,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,06/04/2026,Desarrollo frontend,5.2,170,884,60000
+448,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,07/04/2026,Correccion de bugs,5.3,195,1033.5,60000
+449,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,15/04/2026,Despliegue,4.1,195,799.5,60000
+450,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,15/04/2026,Diseño BD,8.5,220,1870,60000
+451,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,16/04/2026,Pruebas,2.6,235,611,60000
+452,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,16/04/2026,Pruebas,5.1,215,1096.5,60000
+453,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,22/04/2026,Desarrollo backend,6.9,215,1483.5,60000
+454,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,24/04/2026,Correccion de bugs,5.5,170,935,60000
+455,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,28/04/2026,Diseño BD,5.8,195,1131,60000
+456,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,30/04/2026,Analisis,5.3,195,1033.5,60000
+457,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,05/05/2026,Correccion de bugs,3.8,215,817,60000
+458,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,15/05/2026,Diseño BD,6.1,235,1433.5,60000
+459,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,22/05/2026,Correccion de bugs,9.8,170,1666,60000
+460,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,22/05/2026,Diseño BD,5.2,220,1144,60000
+461,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,25/05/2026,Analisis,6.7,220,1474,60000
+462,5,Migracion Sicoin Plus,Sistemas,6,Diego Salinas,Backend,25/05/2026,Documentacion,1.8,215,387,60000
+463,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,25/05/2026,Despliegue,2.6,235,611,60000
+464,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,25/05/2026,Desarrollo frontend,5.2,220,1144,60000
+465,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,27/05/2026,Pruebas,5,220,1100,60000
+466,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,02/06/2026,Pruebas,6.7,170,1139,60000
+467,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,04/06/2026,Pruebas,4.2,235,987,60000
+468,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,12/06/2026,Reunion,7.5,220,1650,60000
+469,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,15/06/2026,Analisis,5.1,170,867,60000
+470,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,15/06/2026,Analisis,3.3,170,561,60000
+471,5,Migracion Sicoin Plus,Sistemas,1,Ana Torres,Backend,18/06/2026,Analisis,8.5,220,1870,60000
+472,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,19/06/2026,Desarrollo frontend,10,235,2350,60000
+473,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,22/06/2026,Pruebas,5.5,235,1292.5,60000
+474,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,23/06/2026,Desarrollo frontend,10,170,1700,60000
+475,5,Migracion Sicoin Plus,Sistemas,8,Hector Ibarra,Data/ML,24/06/2026,Diseño BD,5.8,235,1363,60000
+476,5,Migracion Sicoin Plus,Sistemas,7,Paola Cruz,Frontend,24/06/2026,Desarrollo backend,5.8,195,1131,60000
+477,5,Migracion Sicoin Plus,Sistemas,5,Marisol Vega,QA,26/06/2026,Pruebas,7.2,170,1224,60000
+478,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,07/01/2026,Pruebas,4.6,215,989,110000
+479,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,08/01/2026,Pruebas,1.9,215,408.5,110000
+480,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,13/01/2026,Desarrollo frontend,4.7,215,1010.5,110000
+481,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,14/01/2026,Documentacion,0.5,195,97.5,110000
+482,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,15/01/2026,Analisis,4.2,220,924,110000
+483,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,20/01/2026,Correccion de bugs,3.8,220,836,110000
+484,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,21/01/2026,Diseño BD,5.3,220,1166,110000
+485,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,22/01/2026,Despliegue,5.1,215,1096.5,110000
+486,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,23/01/2026,Despliegue,3,215,645,110000
+487,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,26/01/2026,Pruebas,5.1,190,969,110000
+488,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,26/01/2026,Reunion,3.4,220,748,110000
+489,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,02/02/2026,Pruebas,2.6,220,572,110000
+490,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,03/02/2026,Documentacion,2.5,215,537.5,110000
+491,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,03/02/2026,Reunion,5.8,195,1131,110000
+492,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,04/02/2026,Desarrollo frontend,3.5,215,752.5,110000
+493,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,05/02/2026,Desarrollo frontend,5.1,215,1096.5,110000
+494,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,05/02/2026,Correccion de bugs,5.4,195,1053,110000
+495,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,06/02/2026,Reunion,8.1,190,1539,110000
+496,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,12/02/2026,Reunion,4.6,220,1012,110000
+497,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,12/02/2026,Desarrollo backend,0.9,215,193.5,110000
+498,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,12/02/2026,Desarrollo frontend,4.9,195,955.5,110000
+499,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,16/02/2026,Pruebas,3.9,220,858,110000
+500,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,20/02/2026,Desarrollo frontend,2.2,190,418,110000
+501,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,23/02/2026,Correccion de bugs,4.2,220,924,110000
+502,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,25/02/2026,Reunion,6.4,215,1376,110000
+503,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,02/03/2026,Analisis,0.7,190,133,110000
+504,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,02/03/2026,Reunion,5.5,190,1045,110000
+505,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,05/03/2026,Pruebas,2.4,220,528,110000
+506,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,05/03/2026,Analisis,2.8,195,546,110000
+507,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,10/03/2026,Despliegue,2.8,220,616,110000
+508,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,11/03/2026,Diseño BD,4,195,780,110000
+509,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,16/03/2026,Desarrollo frontend,4.3,195,838.5,110000
+510,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,18/03/2026,Correccion de bugs,4.1,195,799.5,110000
+511,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,18/03/2026,Documentacion,5.5,190,1045,110000
+512,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,19/03/2026,Documentacion,1.7,220,374,110000
+513,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,19/03/2026,Correccion de bugs,3.8,195,741,110000
+514,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,20/03/2026,Reunion,3.4,195,663,110000
+515,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,20/03/2026,Diseño BD,6,190,1140,110000
+516,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,20/03/2026,Desarrollo backend,3.8,190,722,110000
+517,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,20/03/2026,Reunion,2.4,190,456,110000
+518,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,25/03/2026,Documentacion,3.4,220,748,110000
+519,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,26/03/2026,Desarrollo backend,5.8,195,1131,110000
+520,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,26/03/2026,Documentacion,4.5,220,990,110000
+521,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,27/03/2026,Reunion,4.5,190,855,110000
+522,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,27/03/2026,Documentacion,2.2,220,484,110000
+523,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,30/03/2026,Documentacion,0.5,195,97.5,110000
+524,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,31/03/2026,Reunion,6.6,195,1287,110000
+525,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,01/04/2026,Despliegue,3.2,195,624,110000
+526,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,02/04/2026,Desarrollo backend,1.6,190,304,110000
+527,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,03/04/2026,Diseño BD,2.7,195,526.5,110000
+528,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,03/04/2026,Pruebas,2,220,440,110000
+529,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,07/04/2026,Documentacion,3.2,220,704,110000
+530,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,08/04/2026,Desarrollo backend,5.3,195,1033.5,110000
+531,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,16/04/2026,Correccion de bugs,7.3,215,1569.5,110000
+532,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,17/04/2026,Desarrollo frontend,4.4,190,836,110000
+533,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,17/04/2026,Pruebas,1.9,215,408.5,110000
+534,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,17/04/2026,Diseño BD,6.9,220,1518,110000
+535,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,21/04/2026,Despliegue,4.1,195,799.5,110000
+536,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,22/04/2026,Diseño BD,5,195,975,110000
+537,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,22/04/2026,Desarrollo backend,4.6,195,897,110000
+538,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,22/04/2026,Desarrollo frontend,5.5,220,1210,110000
+539,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,23/04/2026,Despliegue,5.1,215,1096.5,110000
+540,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,23/04/2026,Desarrollo frontend,5.5,190,1045,110000
+541,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,23/04/2026,Despliegue,6.6,195,1287,110000
+542,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,24/04/2026,Analisis,6.5,220,1430,110000
+543,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,24/04/2026,Desarrollo backend,5.2,190,988,110000
+544,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,28/04/2026,Pruebas,2.3,220,506,110000
+545,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,28/04/2026,Reunion,4.5,220,990,110000
+546,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,28/04/2026,Correccion de bugs,6.5,220,1430,110000
+547,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,29/04/2026,Desarrollo frontend,4.5,190,855,110000
+548,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,30/04/2026,Diseño BD,1.9,195,370.5,110000
+549,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,01/05/2026,Reunion,3.7,195,721.5,110000
+550,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,07/05/2026,Reunion,1.8,190,342,110000
+551,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,08/05/2026,Pruebas,6.6,190,1254,110000
+552,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,08/05/2026,Despliegue,3.3,215,709.5,110000
+553,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,08/05/2026,Desarrollo backend,5.5,190,1045,110000
+554,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,08/05/2026,Desarrollo frontend,4.1,215,881.5,110000
+555,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,11/05/2026,Despliegue,1.3,190,247,110000
+556,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,12/05/2026,Desarrollo frontend,4.7,220,1034,110000
+557,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,14/05/2026,Desarrollo frontend,4.3,215,924.5,110000
+558,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,18/05/2026,Documentacion,6.6,220,1452,110000
+559,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,18/05/2026,Desarrollo frontend,4.5,190,855,110000
+560,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,19/05/2026,Documentacion,3.2,215,688,110000
+561,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,19/05/2026,Correccion de bugs,4.7,220,1034,110000
+562,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,20/05/2026,Desarrollo backend,4.1,215,881.5,110000
+563,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,20/05/2026,Documentacion,5.2,195,1014,110000
+564,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,25/05/2026,Correccion de bugs,4,190,760,110000
+565,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,25/05/2026,Reunion,3.5,220,770,110000
+566,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,26/05/2026,Despliegue,3.3,220,726,110000
+567,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,27/05/2026,Despliegue,4.9,215,1053.5,110000
+568,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,27/05/2026,Desarrollo frontend,6.1,195,1189.5,110000
+569,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,02/06/2026,Reunion,4.2,195,819,110000
+570,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,03/06/2026,Pruebas,3.5,195,682.5,110000
+571,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,03/06/2026,Pruebas,3.7,190,703,110000
+572,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,04/06/2026,Desarrollo frontend,1.4,220,308,110000
+573,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,10/06/2026,Correccion de bugs,3.6,195,702,110000
+574,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,10/06/2026,Analisis,0.5,215,107.5,110000
+575,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,10/06/2026,Pruebas,3.7,190,703,110000
+576,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,15/06/2026,Despliegue,6.3,215,1354.5,110000
+577,6,Dashboard Tiempos y Costos,Sistemas,1,Ana Torres,Backend,16/06/2026,Despliegue,0.5,220,110,110000
+578,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,17/06/2026,Diseño BD,4.3,190,817,110000
+579,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,17/06/2026,Correccion de bugs,3.4,195,663,110000
+580,6,Dashboard Tiempos y Costos,Sistemas,6,Diego Salinas,Backend,18/06/2026,Diseño BD,5.6,215,1204,110000
+581,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,18/06/2026,Analisis,2,190,380,110000
+582,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,22/06/2026,Analisis,8,195,1560,110000
+583,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,23/06/2026,Diseño BD,2.8,190,532,110000
+584,6,Dashboard Tiempos y Costos,Sistemas,3,Carla Ruiz,Frontend,24/06/2026,Desarrollo frontend,4.6,190,874,110000
+585,6,Dashboard Tiempos y Costos,Sistemas,7,Paola Cruz,Frontend,26/06/2026,Despliegue,4.4,195,858,110000
