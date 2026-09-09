@@ -56,6 +56,17 @@ Todas las respuestas son JSON, como se solicitó, junto con códigos HTTP están
 
 Cada entidad valida sus campos vía los Models de CodeIgniter (`required`, tipos, rangos positivos y fechas válidas). Los registros de tiempo taambién validan que `empleado_id` y `proyecto_id` existan realmente (`is_not_unique`), para no permitir llaves foráneas divagando. Los errores se regresan en JSON.
 
+
+## Extras opcionales no implementados
+
+El reto marca estos puntos como opcionales, así que se priorizó dejar 100% funcional lo obligatorio (CRUD, validaciones, endpoint de resumen, EDA, modelo) antes de tocar esto:
+
+- **Autenticación** (API key o JWT)
+- **Filtros y paginación** en los listados del backend
+- **Pruebas unitarias** del backend
+
+Con más tiempo, el orden en que los abordaría sería: pruebas unitarias primero (dan más confianza sobre lo ya construido), luego filtros/paginación, y autenticación al final.
+
 # Análisis de Datos y Modelo de Clasificación
 
 ## Cómo correrlo
